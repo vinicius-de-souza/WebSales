@@ -5,7 +5,6 @@ C:\dev\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.dll
 C:\dev\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.pdb
 C:\dev\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.dll
 C:\dev\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.pdb
-C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.AssemblyReference.cache
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CoreCompileInputs.cache
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cache
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cs
@@ -30,3 +29,9 @@ C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.Views.pdb
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.dll
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.pdb
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
+C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.AssemblyReference.cache
+C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
